@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  particular: MyString
+  dated: 2018-02-25
+  amount: 9.99
+  notes: MyText
+
+two:
+  particular: MyString
+  dated: 2018-02-25
+  amount: 9.99
+  notes: MyText
